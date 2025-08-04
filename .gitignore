@@ -1,3 +1,6 @@
+# Environment variables
+src/main/resources/application-local.properties
+
 # Maven
 target/
 pom.xml.tag
